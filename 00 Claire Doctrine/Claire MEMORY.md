@@ -1,5 +1,10 @@
 # MEMORY.md
 
+## Related
+- [[00 Claire Doctrine/README|Claire Doctrine]]
+- [[00 Claire Doctrine/Claire SOUL|Claire SOUL]]
+- [[00 Claire Doctrine/Claire AGENT|Claire AGENT]]
+
 ## Purpose
 
 The memory system exists to preserve:
