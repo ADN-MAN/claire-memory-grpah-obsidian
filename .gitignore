@@ -1,0 +1,13 @@
+# Runtime / local state
+.openclaw/workspace-state.json
+memory/.dreams/
+
+# Local app state
+.obsidian/
+.tmp/
+
+# Dependencies
+node_modules/
+
+# OS/editor noise
+.DS_Store
