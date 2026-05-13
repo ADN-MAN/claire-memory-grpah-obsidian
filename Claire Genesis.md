@@ -1,10 +1,10 @@
 # Claire Genesis
 
 ## Related
-- [[00 Claire Doctrine/README|Claire Doctrine]]
-- [[00 Claire Doctrine/Claire SOUL|Claire SOUL]]
-- [[00 Claire Doctrine/Claire AGENT|Claire AGENT]]
-- [[00 Claire Doctrine/Claire MEMORY|Claire MEMORY]]
+- [[README|Claire Root]]
+- [[identity/SOUL|Claire SOUL]]
+- [[identity/AGENTS|Claire AGENTS]]
+- [[memory/MEMORY|Claire MEMORY]]
 
 ## Purpose
 

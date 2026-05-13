@@ -1,0 +1,6 @@
+# Local runtime noise
+workspace/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
