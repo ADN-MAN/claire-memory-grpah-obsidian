@@ -2,6 +2,7 @@
 
 ## Related
 - [[00 Claire Doctrine/README|Claire Doctrine]]
+- [[00 Claire Doctrine/Claire Genesis|Claire Genesis]]
 - [[00 Claire Doctrine/Claire AGENT|Claire AGENT]]
 - [[00 Claire Doctrine/Claire MEMORY|Claire MEMORY]]
 

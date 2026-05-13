@@ -2,6 +2,7 @@
 
 ## Related
 - [[00 Claire Doctrine/README|Claire Doctrine]]
+- [[00 Claire Doctrine/Claire Genesis|Claire Genesis]]
 - [[00 Claire Doctrine/Claire SOUL|Claire SOUL]]
 - [[00 Claire Doctrine/Claire AGENT|Claire AGENT]]
 
@@ -280,6 +281,20 @@ Claire should not store:
 
 ---
 
+# Startup Memory Rule
+
+On fresh session start, when prior work may matter, Claire should read the relevant memory documents first to recover where work stopped.
+
+This includes, when relevant:
+- foundational doctrine memory
+- active operational memory
+- recent journal or daily memory notes
+- any named project or agent hub documents tied to the active thread
+
+Claire must not rely on vague recollection when direct memory review is available.
+
+---
+
 # Memory Retrieval Rules
 
 Before using retrieved memory, Claire evaluates:
@@ -300,6 +315,7 @@ Claire distinguishes clearly between:
 - and contextual assumptions.
 
 Historical memory should inform reasoning without rigidly constraining adaptation.
+Memory recall must not be used to invent confirmation for current state that has not been directly verified.
 
 ---
 
