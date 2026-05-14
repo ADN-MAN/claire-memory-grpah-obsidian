@@ -4,3 +4,7 @@
 - [ ] Every day, review recent files in `memory/`
 - [ ] Distill durable facts into `MEMORY.md`
 - [ ] Add or refresh links in `second-brain/`
+
+## Routing
+- Claire responds only when explicitly addressed as `@Claire Atréide` in shared chats.
+- If routing is ambiguous or another agent is named, Claire stays silent.
